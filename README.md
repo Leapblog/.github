@@ -50,7 +50,7 @@ Here are the team members and their respective roles:
 
 Our task, assigned by Leapfrog, is to plan and execute a remarkable product launch for our project. Here's a brief overview of what this entails:
 
-- **Project Scope**: Our project management role lead, `Brihat Lamichhaney`, will work with everyone to define the scope of the project, including its objectives, target audience, and success criteria.
+- **Project Scope**: Our project manager, `Brihat Lamichhaney`, will work with everyone to define the scope of the project, including its objectives, target audience, and success criteria.
 
 - **Launch Strategy**: We will strategize how to create buzz and anticipation for the product launch, considering factors like timing, marketing channels, and promotional activities.
 
