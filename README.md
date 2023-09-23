@@ -84,19 +84,25 @@ Some of the tools used in this project include:
 
 If you're part of the team or interested in contributing to this project, please follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine.
+## How to Contribute
 
-2. **Branching**: Create a new branch for your work using a descriptive name.
+If you're part of the team or interested in contributing to this project, please follow these steps:
 
-3. **Work**: Contribute to the project by completing your assigned tasks.
+1. **Fork the Repository**: Fork this repository by clicking the "Fork" button at the top right of this page.
 
-4. **Commit**: Commit your changes with clear and concise commit messages.
+2. **Clone the Repository**: Clone your forked repository to your local machine.
 
-5. **Pull Request**: Create a pull request when you're ready to merge your changes into the main branch.
+3. **Branching**: Create a new branch for your work using a descriptive name.
 
-6. **Code Review**: Collaborate with team members to review and refine the code.
+4. **Work**: Contribute to the project by completing your assigned tasks.
 
-7. **Merge**: Once your code is approved, it will be merged into the main branch.
+5. **Commit**: Commit your changes with clear and concise commit messages.
+
+6. **Pull Request**: Create a pull request when you're ready to merge your changes into the main branch.
+
+7. **Code Review**: Collaborate with team members to review and refine the code.
+
+8. **Merge**: Once your code is approved, it will be merged into the main branch.
 
 ## Feedback and Collaboration
 
