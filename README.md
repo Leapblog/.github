@@ -50,7 +50,7 @@ Here are the team members and their respective roles:
 
 Our task, assigned by Leapfrog, is to plan and execute a remarkable product launch for our project. Here's a brief overview of what this entails:
 
-- **Project Scope**: Our lead, `Brihat Lamichhaney`, will work with everyone to define the scope of the project, including its objectives, target audience, and success criteria.
+- **Project Scope**: Our project management role lead, `Brihat Lamichhaney`, will work with everyone to define the scope of the project, including its objectives, target audience, and success criteria.
 
 - **Launch Strategy**: We will strategize how to create buzz and anticipation for the product launch, considering factors like timing, marketing channels, and promotional activities.
 
@@ -82,11 +82,7 @@ Some of the tools used in this project include:
 
 ## How to Contribute
 
-If you're part of the team or interested in contributing to this project, please follow these steps:
-
-## How to Contribute
-
-If you're part of the team or interested in contributing to this project, please follow these steps:
+If you're part of the team to this project, please follow these steps:
 
 1. **Fork the Repository**: Fork this repository by clicking the "Fork" button at the top right of this page.
 
@@ -114,4 +110,4 @@ Let's work together to make this product launch a tremendous success!
 
 **Note**: This README is a template. Please customize it to suit your project's specific details and requirements.
 
-⭐ `Star this repo on GitHub — it helps!`
+⭐ `Star this repo – it's where the magic happens!` ⭐
