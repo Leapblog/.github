@@ -1,50 +1,78 @@
-<h1 align="center">Leapfrog Product Launch</h1>
-
-<div align="center">
-  <img src="https://studentpartner.lftechnology.com/assets/images/student-partnership-logo.svg" alt="Leapfrog Student Partnership Logo" width="400">
-</div>
+<h1 align="center">
+  <img src="https://github.com/Seven-Musketeers/.github/assets/107195487/cc5e94bf-abe1-4acd-9ed0-d46e9842ff95" alt="Leapblog" width="600">
+</h1>
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img
     alt="GitHub repo size"
-    src="https://img.shields.io/github/repo-size/purnasth/leapfrog-product-launch?color=FFB001&logo=github&style=for-the-badge&logoColor=00CB5B"
+    src="https://img.shields.io/github/repo-size/Leapblog/.github?color=FFB001&logo=github&style=for-the-badge&logoColor=00CB5B"
   />
   <img
     alt="GitHub forks"
-    src="https://img.shields.io/github/forks/purnasth/leapfrog-product-launch?color=FFB001&logo=github&style=for-the-badge&logoColor=00CB5B"
+    src="https://img.shields.io/github/forks/Leapblog/.github?color=FFB001&logo=github&style=for-the-badge&logoColor=00CB5B"
   />
   <img
     alt="GitHub Repo stars"
-    src="https://img.shields.io/github/stars/purnasth/leapfrog-product-launch?color=FFB001&logo=github&style=for-the-badge&logoColor=00CB5B"
+    src="https://img.shields.io/github/stars/Leapblog/.github?color=FFB001&logo=github&style=for-the-badge&logoColor=00CB5B"
   />
   <img
     alt="Last commit"
-    src="https://img.shields.io/github/last-commit/purnasth/leapfrog-product-launch?color=FFB001&logo=git&logoColor=00CB5B&style=for-the-badge"
+    src="https://img.shields.io/github/last-commit/Leapblog/.github?color=FFB001&logo=git&logoColor=00CB5B&style=for-the-badge"
   />
   <img
     alt="Commit activity"
-    src="https://img.shields.io/github/commit-activity/m/purnasth/leapfrog-product-launch?color=FFB001&logo=git&logoColor=00CB5B&style=for-the-badge"
+    src="https://img.shields.io/github/commit-activity/m/Leapblog/.github?color=FFB001&logo=git&logoColor=00CB5B&style=for-the-badge"
   />
-</div>
+</div> -->
 
 ## Overview
 
-Welcome to the Leapfrog Product Launch project! In this repository, we are excited to introduce you to our team and provide an overview of the task assigned by Leapfrog. The task involves creating a phenomenal product launch for a project, and we are thrilled to be part of this exciting journey.
+Welcome to Leapblog, the online haven created specifically for the dazzling minds of Leapfrog Student Partners!
 
-## Team Members and Roles
+Your thoughts will take flight and your words will find a home here. Share your coding triumphs, technological riddles, and one-of-a-kind experiences in a thriving community where tales influence the future.
 
-Here are the team members and their respective roles:
+- For frontend repository, [click here](https://github.com/Leapblog/frontend)
+- For backend repository, [click here](https://github.com/Leapblog/backend)
 
-1. **`Aditi Kharel`**
-2. **`Anupama Rai`**
-3. **`Astika Gurung`**
-4. **`Brihat Lamichhaney`**
-5. **`Kushal Dhakal`**
-6. **`Nishant Sapkota`**
-7. **`Purna Shrestha`**
-   - Web Development Lead, Presentation Assist, Design Assist, Final Product Launch Assist
+## Project Owners
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <pre><a href="https://github.com/aditikharel" target="_blank"><img src="https://avatars.githubusercontent.com/u/83524910?v=4" width="200" alt="GitHub Profile of Aditi Kharel" /><br/><sub>Aditi Kharel</sub></a><br/>Backend Developer</pre>
+    </td>
+    <td align="center" width="200">
+      <pre><a href="https://github.com/Anupamaraie" target="_blank"><img src="https://avatars.githubusercontent.com/u/91787285?v=4" width="200" alt="GitHub Profile of Anupama Rai" /><br/><sub>Anupama Rai</sub></a><br/>Developer</pre>
+    </td>
+    <td align="center" width="200">
+      <pre><a href="https://github.com/astikagrg" target="_blank"><img src="https://avatars.githubusercontent.com/u/84502967?v=4" width="200" alt="GitHub Profile of Astika Gurung" /><br/><sub>Astika Gurung</sub></a><br/>Designer</pre>
+    </td>
+    <td align="center" width="200">
+      <pre><a href="https://github.com/Br9ha20" target="_blank"><img src="https://avatars.githubusercontent.com/u/78255598?v=4" width="200" alt="GitHub Profile of Brihat Lamichhaney" /><br/><sub>Brihat Lamichhaney</sub></a><br/>Project Manager</pre>
+    </td>
+    <td align="center" width="200">
+      <pre><a href="https://github.com/dklkushal07" target="_blank"><img src="https://avatars.githubusercontent.com/u/68638711?v=4" width="200" alt="GitHub Profile of Kushal Dhakal" /><br/><sub>Kushal Dhakal</sub></a><br/>QA</pre>
+    </td>
+     <td align="center" width="200">
+      <pre><a href="https://github.com/thenishantsapkota" target="_blank"><img src="https://avatars.githubusercontent.com/u/60746512?v=4" width="200" alt="GitHub Profile of Nishant Sapkota" /><br/><sub>Nishant Sapkota</sub></a><br/>Backend Developer</pre>
+    </td>
+    <td align="center" width="200">
+      <pre><a href="https://github.com/purnasth" target="_blank"><img src="https://avatars.githubusercontent.com/u/107195487?v=4" width="200" alt="GitHub Profile of Purna Shrestha" /><br/><sub>Purna Shrestha</sub></a><br/>Frontend Developer</pre>
+    </td>
+  </tr>
+</table>
+
+## Project Goals
+
+1. **Primary Goal**:
+
+   - To create a blog website as a knowledge-sharing platform for `Leapfrog Student Partners (LSPs)` to showcase their work, experiences, and insights.
+
+2. **Secondary Goal**:
+   - Foster a sense of community and collaboration among LSPs.
+   - Provide an easily accessible archive of LSP blog posts organized by batches.
 
 ## Task Description
 
@@ -68,38 +96,6 @@ Our task, assigned by Leapfrog, is to plan and execute a remarkable product laun
 
 - **Final Product Launch**: We, the LSPs, will launch the product and celebrate our success!
 
-## Tools Used
-
-Some of the tools used in this project include:
-
-- Figma for UI/UX design
-- react.js for frontend development
-- node.js for backend development
-- Tailwind CSS for styling
-- Git for version control
-- Cloudflare for web hosting and security
-- PowerPoint 365 for presentation
-
-## How to Contribute
-
-If you're part of the team to this project, please follow these steps:
-
-1. **Fork the Repository**: Fork this repository by clicking the "Fork" button at the top right of this page.
-
-2. **Clone the Repository**: Clone your forked repository to your local machine.
-
-3. **Branching**: Create a new branch for your work using a descriptive name.
-
-4. **Work**: Contribute to the project by completing your assigned tasks.
-
-5. **Commit**: Commit your changes with clear and concise commit messages.
-
-6. **Pull Request**: Create a pull request when you're ready to merge your changes into the main branch.
-
-7. **Code Review**: Collaborate with team members to review and refine the code.
-
-8. **Merge**: Once your code is approved, it will be merged into the main branch.
-
 ## Feedback and Collaboration
 
 We value collaboration and feedback. If you have any suggestions, ideas, or questions, please feel free to reach out to any team member listed above.
@@ -108,6 +104,6 @@ Let's work together to make this product launch a tremendous success!
 
 ---
 
-**Note**: This README is a template. Please customize it to suit your project's specific details and requirements.
+**Note**: This README is your canvas, waiting to be painted with the vibrant colors and unique strokes that define Leapblog.
 
 ⭐ `Star this repo – it's where the magic happens!` ⭐
